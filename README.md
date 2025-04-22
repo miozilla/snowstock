@@ -1,4 +1,4 @@
-# snowstock
+# snowstock ❄️
 snowstock : Stock Market/Finance #snowflake #yfinance
 
 ## Visualization
