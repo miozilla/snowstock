@@ -8,3 +8,7 @@ snowstock : Stock Market/Finance #snowflake #yfinance
 ![Test_Screenshot_2](./snowflake_snowsight002.png)
 
 ![Test_Screenshot_3](./snowflake_snowsight003.png)
+
+![Test_Screenshot_4](./TableauSnowstockDashboard01a.png)
+
+![Test_Screenshot_5](./TableauSnowstockDashboard01b.png)
