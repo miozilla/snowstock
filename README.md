@@ -1,5 +1,7 @@
 # snowstock ❄️
-snowstock : Stock Market/Finance #snowflake #yfinance
+snowstock : Stock Market/Finance #snowflake #tableau #azure_blob #yfinance
+
+![FlowchartDiagram_1](./flowchart_diagram_snowstock001.png)
 
 ## Visualization
 
